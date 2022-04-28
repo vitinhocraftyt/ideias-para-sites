@@ -1,0 +1,22 @@
+
+ Lugar de competições de jogos em base de apostas
+
+ você apostaria um tanto de moeda especifica do site que voce receberia um tanto inicial apos a criação
+da conta, se você ganhar a partida , recebe oque você apostou de volta e recebe oq seu inimigo apostou tb,
+claro que teria que teria que ser valores parecidos as apostas.
+
+ No caso nn teria jogo especifico, poderia ser qualquer jogo, tudo q precissa é ser online e vc precissa ter um inimigo, apos
+um dos dois ganhar, o vencedor mandaria a printscreen da tela de vitoria, e ambos os jogadores teria q alegar qm ganhou,
+ por conta de pessoas toxicas vc so poderia apostar com quem vc conhecer, seja amigo da vida real ou webamigos.
+
+ Teria um rank semanal e um mensal, e claro um geral q seria reiniciado a cada temporada, os primeiros colocados receberia divervos privilégios, e qm sabe se der certo premios reais / fisicos futuramente.
+
+haveria um menu na esquerda ocupando 3% da tela indo de cima a baixo da tela, dentro dele:
+
+	na parte superior teria o icone da conta, contendo moldura opcional;
+	ao lado do icone seu nick, e seu nivel no ranks (exp: bronze, prata, ouro, etc... )
+	abaixo uma opção de home, que redicionaria direto a pagina inicial.
+	abaixo uma opção de itens como xp em dobro, sendo classificados em comun, raro, epico e lendario
+	abaixo uma aba de amigos, que você poderia adicionar outros usuarios
+	abaixo uma aba de historicos, que iria conter todas suas partidas passadas, com quem foi, se ganhou, e dados adicinais( opcionais )
+	abaixo
